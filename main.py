@@ -54,7 +54,7 @@ def send_message(conn, channel_id, message_data):
 
 def main(): 
     message_data = { 
-        "content": message + "\n\n# == Auto Post by Gantari Community ==", 
+        "content": message + "\n\n=====================\nAuto Post by Gantari Community\n=====================", 
         "tts": False
     } 
 
