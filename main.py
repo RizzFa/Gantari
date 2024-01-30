@@ -11,7 +11,7 @@ script = "Auto Post Discord"
 print("Script: " + script)
 discord = "dsc.gg/gantari"
 print("Discord: " + discord)
-print("===========================================\n")
+print("=================================================\n")
 
 time.sleep(1)
 
@@ -54,7 +54,7 @@ def send_message(conn, channel_id, message_data):
 
 def main(): 
     message_data = { 
-        "content": message + "\n\n=====================\nAuto Post by Gantari Community\n=====================", 
+        "content": message + "\n\n# =============================\nAuto Post by Gantari Community\n=============================", 
         "tts": False
     } 
 
