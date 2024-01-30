@@ -46,8 +46,7 @@ def send_message(conn, channel_id, message_data):
         resp = conn.getresponse() 
          
         if 199 < resp.status < 300: 
-            print(Fore.WHITE + "Pesan terkirim: ")
-            print(Fore.YELLOW + payload['content'])
+            print(Fore.WHITE + "Pesan terkirim: " + content)
         else: 
             print(f"HTTP {resp.status}: {resp.reason}")
     except: 
