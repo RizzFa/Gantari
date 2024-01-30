@@ -1,4 +1,5 @@
 # Discord Autopost by Gantari Community
+buka termux, lalu masukkan step by step sesuai dengan teks dibawah..
 ```
 upt upgrade
 ```
