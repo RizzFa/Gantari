@@ -4,7 +4,7 @@
             "token": "masukkan token discord",
             "channelid": "Masukkan channel ID",
             "message": "masukkan text disini"
-			"waktu": "1 detik = 1, 1 menit = 60, 1 jam = 3600"
+	    "waktu": "1 detik = 1, 1 menit = 60, 1 jam = 3600"
          }
     ]
 }
