@@ -1,1 +1,0 @@
-javascript:var i = document.createElement('iFrame');i.onload = function(){var localStorage = i.contentWindow.localStorage;prompt('DC Token by Faris#0064', localStorage.getItem('token').replace(/["]+/g,''));};document.body.appendChild(i);
