@@ -2,7 +2,6 @@
     "Config": [
         {
             "token": "masukkan token discord",
-            "channelid": "Masukkan channel ID",
             "message": "masukkan text disini"
 	    "waktu": "Masukkan waktu"
          }
