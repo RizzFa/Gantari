@@ -47,7 +47,7 @@ def send_message(conn, channel_id, message_data):
          
         if 199 < resp.status < 300: 
             print(Fore.WHITE + "Pesan terkirim: ")
-            print(Fore.YELLOW + payload["content"])
+            print(Fore.YELLOW + payload['content'])
         else: 
             print(f"HTTP {resp.status}: {resp.reason}")
     except: 
@@ -55,7 +55,7 @@ def send_message(conn, channel_id, message_data):
 
 def main(): 
     message_data = { 
-        "content": message + "== Gantari Community ==", 
+        "content": message + "\n== Auto Post by Gantari Community ==", 
         "tts": False
     } 
 
