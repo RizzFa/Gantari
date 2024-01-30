@@ -2,12 +2,34 @@ import http.client
 import json
 import time
 
+print("=================================================")
+print("🇬‌🇦‌🇳‌🇹‌🇦‌🇷‌🇮‌ 🇨‌🇴‌🇲‌🇲‌🇺‌🇳‌🇮‌🇹‌🇾‌‌")
+print("=================================================")
+author = "Faris#0064"
+print("Author: " + author)
+script = "Auto Post Discord"
+print("Script: " + script)
+discord = "dsc.gg/gantari"
+print("Discord: " + discord)
+print("===========================================\n")
+
+time.sleep(1)
+
+channel_id = input("masukkan channel ID: ")
+waktu = int(input("Set Waktu Kirim Pesan: "))
+
+time.sleep(1)
+print("3")
+time.sleep(1)
+print("2")
+time.sleep(1)
+print("1")
+time.sleep(1)
+
 with open('./config.json') as f:
     config_data = json.load(f)
-    channel_id = config_data['Config'][0]['channelid']  # config.json
     token = config_data['Config'][0]['token']  # config.json
     message = config_data['Config'][0]['message']  # config.json
-    waktu = config_data['Config'][0]['waktu'] # config.json
 
 header_data = { 
     "Content-Type": "application/json", 
