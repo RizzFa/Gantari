@@ -25,7 +25,7 @@ cd GantariPost
 nano get-token.txt
 ```
 ```
-nano config.js
+nano config.json
 ```
 python main.py
 ```
