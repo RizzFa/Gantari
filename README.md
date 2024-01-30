@@ -22,8 +22,10 @@ git clone https://github.com/RizzFa/GantariPost
 cd GantariPost
 ```
 ```
-nano config.json
+nano get-token.txt
 ```
+```
+nano config.js
 ```
 python main.py
 ```
