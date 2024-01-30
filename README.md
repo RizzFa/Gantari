@@ -1,26 +1,28 @@
-# push-level-discord Intsal di Termux Android
+# Discord Autopost by Gantari Community
 ```
-pkg install git
-```
-```
-git clone https://github.com/bangpateng/push-dc
+upt upgrade
 ```
 ```
 pkg install python
 ```
 ```
-apt upgrade && update
-```
-```
 pkg install openssl
+```
+```
+pkg install git
 ```
 ```
 pip install requests colorama
 ```
 ```
-cd push-dc
+git clone https://github.com/RizzFa/GantariPost
+```
+```
+cd GantariPost
+```
+```
+nano config.json
 ```
 ```
 python main.py
 ```
-Created : bgpateng
