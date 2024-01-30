@@ -27,5 +27,7 @@ nano get-token.txt
 ```
 nano config.json
 ```
+```
 python main.py
 ```
+Script by Faris#0064
