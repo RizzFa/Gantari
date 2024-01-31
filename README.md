@@ -1,1 +1,10 @@
-# Auto Post by Gantari Community\n**Untuk sementara hanya bisa digunakan di android dan ios.**\n## download terminal\n**Android:**\n[![N|Solid](https://tse1.mm.bing.net/th?id=OIP.Ro739XbObP73gjGTg0mrCwHaCM&pid=Api&P=0&h=40)](https://f-droid.org/repo/com.termux_118.apk)\n**Ios:**\n[![N|Solid](https://tse1.mm.bing.net/th?id=OIP.qMoLfr63xwD4eSKlZsGHugAAAA&pid=Api&P=0&h=70)](https://apps.apple.com/us/app/ish-shell/id1436902243?platform=iphone)\nDiscord: https://dsc.gg/gantari\n
+# Auto Post by Gantari Community
+**Untuk sementara hanya bisa digunakan di android dan ios.**
+## download terminal
+
+**Android:**
+[![N|Solid](https://tse1.mm.bing.net/th?id=OIP.Ro739XbObP73gjGTg0mrCwHaCM&pid=Api&P=0&h=40)](https://f-droid.org/repo/com.termux_118.apk)
+
+**Ios:**
+[![N|Solid](https://tse1.mm.bing.net/th?id=OIP.qMoLfr63xwD4eSKlZsGHugAAAA&pid=Api&P=0&h=70)](https://apps.apple.com/us/app/ish-shell/id1436902243?platform=iphone)
+Discord: https://dsc.gg/gantari
