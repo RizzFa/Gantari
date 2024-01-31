@@ -1,30 +1,8 @@
-# Discord Autopost by Gantari Community
-buka termux, lalu masukkan step by step sesuai dengan teks dibawah..
-```
-upt update
-```
-```
-upt upgrade
-```
-```
-pkg install python
-```
-```
-pkg install git
-```
-```
-pip install licensing
-```
-```
-git clone https://github.com/RizzFa/GantariPost
-```
-```
-cd GantariPost
-```
-```
-nano config.json
-```
-```
-python main.py
-```
-Script by Faris#0064
+# Auto Post by Gantari Community
+**Untuk sementara hanya bisa digunakan di android dan ios.**
+## download terminal
+**Android:**
+[![N|Solid](https://tse1.mm.bing.net/th?id=OIP.Ro739XbObP73gjGTg0mrCwHaCM&pid=Api&P=0&h=40)](https://f-droid.org/repo/com.termux_118.apk)
+**Ios:**
+[![N|Solid](https://tse1.mm.bing.net/th?id=OIP.qMoLfr63xwD4eSKlZsGHugAAAA&pid=Api&P=0&h=70)](https://apps.apple.com/us/app/ish-shell/id1436902243?platform=iphone)
+Discord: https://dsc.gg/gantari
