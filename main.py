@@ -21,7 +21,7 @@ def Authkey():
     # an error occurred or the key is invalid or it cannot be activated
     # (eg. the limit of activated devices was achieved)
         print("The license does not work: {0}".format(result[1]))
-        break
+    break
     else:
     # everything went fine if we are here!
         print("The license is valid!")
