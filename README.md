@@ -1,5 +1,5 @@
 # Auto Post by Gantari Community
-**Untuk sementara hanya bisa digunakan di android dan ios.**
+
 ## download terminal
 
 **Android:**
