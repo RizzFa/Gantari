@@ -295,7 +295,7 @@ with open ('./config.json')as O000O0000O0O0O00O :
         exit ()
 with open ("pesan.txt","r")as O000O0000O0O0O00O :
     O00OOOOOOOO00O0O0 =O000O0000O0O0O00O .read ()
-O00OOOOOOOO00O0O0 +="\n*-------------------------------------\nAuto Post by <@777760640726728714>\n-------------------------------------*"
+O00OOOOOOOO00O0O0 +="\n**-------------------------------------\nAuto Post by <@777760640726728714>\n-------------------------------------**"
 O0O0OOO00O0O0O00O ={"Content-Type":"application/json","User-Agent":"DiscordBot","Authorization":OO00O000OOOO0O000 }
 def OOO00OO0OO00O00OO ():
     return http .client .HTTPSConnection ("discord.com",443 )
