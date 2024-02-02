@@ -263,7 +263,7 @@ def O0OOO00OO0O0OO0OO ():
         print ("\nAuthentication berhasil!")
 O0OOO00OO0O0OO0OO ()
 print ("\n=================================================")
-print ("🇬‌🇦‌🇳‌🇹‌🇦‌🇷‌🇮‌ 🇨‌🇴‌🇲‌🇲‌🇺‌🇳‌🇮‌🇹‌🇾‌‌")
+print ("🇬‌🇦‌🇳‌🇹‌🇦‌🇷‌🇮‌ 🇨‌🇴‌🇲‌🇲‌🇺‌🇳‌🇮‌🇹‌🇾‌")
 print ("=================================================")
 O000O0OOOO0O00OOO ="Faris#0064"
 print ("Author: "+O000O0OOOO0O00OOO )
@@ -275,7 +275,7 @@ print ("=================================================\n")
 time .sleep (1 )
 O0O0OOOO0O0OOO0O0 =input ("Masukkan channel IDs (pisahkan dengan koma): ")
 OOOOOO000OOO00O0O =[OO0O0O00000OO000O .strip ()for OO0O0O00000OO000O in O0O0OOOO0O0OOO0O0 .split (',')]
-OOO00OOOO0OOO00O0 =int (input ("Set Waktu Kirim Pesan: "))
+OOO00OOOO0OOO00O0 =int (input ("Set Waktu Kirim Pesan (detik): "))
 time .sleep (1 )
 print ("3")
 time .sleep (1 )
