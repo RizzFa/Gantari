@@ -1,6 +1,6 @@
 # Auto Post by Gantari Community
 
-**download terminal**
+### download terminal:
 
 **Android:**
 
