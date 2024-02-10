@@ -4,7 +4,7 @@
 
 **Android:**
 
-[![N|Solid](https://tse1.mm.bing.net/th?id=OIP.Ro739XbObP73gjGTg0mrCwHaCM&pid=Api&P=0&h=40)]([https://f-droid.org/repo/com.termux_118.apk](https://termux.en.uptodown.com/android))
+[![N|Solid](https://tse1.mm.bing.net/th?id=OIP.Ro739XbObP73gjGTg0mrCwHaCM&pid=Api&P=0&h=40)](https://termux.en.uptodown.com/android)
 
 **Ios:**
 
