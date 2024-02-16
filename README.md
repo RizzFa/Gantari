@@ -10,4 +10,4 @@
 
 [![N|Solid](https://tse1.mm.bing.net/th?id=OIP.qMoLfr63xwD4eSKlZsGHugAAAA&pid=Api&P=0&h=70)](https://apps.apple.com/us/app/ish-shell/id1436902243?platform=iphone)
 
-[![DiscordBanner](https://invidget.switchblade.xyz/https://discord.gg/ZcrpGzvKcR)](https://discord.gg/ZcrpGzvKcR)
+[Discord: click me](https://discord.gg/ZcrpGzvKcR)
