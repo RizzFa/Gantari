@@ -10,4 +10,4 @@
 
 [![N|Solid](https://tse1.mm.bing.net/th?id=OIP.qMoLfr63xwD4eSKlZsGHugAAAA&pid=Api&P=0&h=70)](https://apps.apple.com/us/app/ish-shell/id1436902243?platform=iphone)
 
-[![DiscordBanner](https://invidget.switchblade.xyz/Gantari Community-1197960588907786384)](https://discord.gg/ZcrpGzvKcR)
+[![DiscordBanner](https://invidget.switchblade.xyz/1197960588907786384)](https://discord.gg/ZcrpGzvKcR)
